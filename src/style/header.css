@@ -1,0 +1,16 @@
+   /* *{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: Arial;
+   } */
+   .logo-img{
+    width: 150px;
+    height: 45px;
+   }
+   .header{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 20px 148px;
+   }

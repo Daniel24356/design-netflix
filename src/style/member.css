@@ -1,0 +1,37 @@
+   .member-cont{
+    padding: 32px 148px;
+    margin-top: 200px;
+   }
+   .ads-cont{
+     width:1050.10px ;
+     height: 385px;
+     border-radius: 20px;
+     margin-top: 16px;
+     background-color: rgb(29,14,33);
+     display: flex;
+     gap: 70px;
+   }
+   .pad-ads{
+    padding-top: 120px;
+    padding-bottom: 120px;
+    padding-left: 48px;
+    padding-right: 16px;
+   }
+   .mem-text{
+     font-size: 24px;
+     font-weight: 600;
+   }
+   .game-text{
+     font-size: 32px;
+     font-weight: 700;
+     font-family: Arial;
+     white-space: nowrap;
+   }
+   .fee-text{
+    font-size: 16px;
+    font-weight: 400;
+    color: rgb(186,176,183);
+   }
+   .fee-cont{
+    margin-top: 20px;
+   }

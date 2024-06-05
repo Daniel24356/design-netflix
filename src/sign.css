@@ -1,0 +1,206 @@
+.all-conts{
+  background-image: url(img/netflix2.jpg);
+  height: 188vh;
+  width: 100%;
+  background-size: cover;
+  position: relative;
+}
+.all-conts::before{
+  content: "";
+  position: absolute;
+  top: 0;
+  width: 100%;
+  height: 100%;
+  background: rgba(0, 0, 0, 0.411);
+}
+.pos-conts{
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+}
+ .form-cont{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 33px;
+  }
+  .form{
+    width: 450px;
+    height: 680px;
+    /* border: 1px solid gainsboro; */
+    padding-top:48px ;
+    padding-bottom:48px ;
+    padding-left: 68px;
+    padding-right:68px;
+    border-radius: 15px;
+    background-color: transparent;
+    position: relative;
+  }
+  .form::before{
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    width: 100%;
+    height: 100%;
+    background: rgba(0, 0, 0, 0.644);
+  }
+  .dark-form{
+    position: absolute;
+  }
+  .sign-text{
+    font-size: 32px;
+    font-weight: 700;
+    margin-bottom: 28px;
+    font-family: Arial;
+  }
+  .input-two{
+    height: 56px;
+    width: 320px;
+     padding-top:16px ;
+    /* padding-bottom: 26px;  */
+    padding-left: 16px;
+    padding-right: 16px;
+    border: 1px solid rgb(95,95,95);
+    background-color: transparent;
+    border-radius: 5px;
+    margin-bottom: 20px;
+    position: relative;
+  }
+  .input-two::before{
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: rgba(29, 28, 28, 0.568);
+  }
+  .input-sign{
+    width: 250px;
+    background-color: transparent;
+    border: none;
+    position: absolute;
+  }
+  .input-sign::placeholder{
+    font-size: 16px;
+    font-weight: 400;
+    color: rgb(207, 206, 206);
+  }
+  .sign-btn{
+    height: 38px;
+    width: 320px;
+    font-size: 16px;
+    font-weight: 500;
+    background-color: red;
+    border: none;
+    border-radius: 3px;
+  }
+  .forgot-txt{
+    padding-left: 96px;
+    font-size: 15px;
+    font-weight: 400;
+    margin-top: 15px;
+  }
+  .check-div{
+    margin-top: 90px;
+    display: flex;
+    gap: 10px;
+  }
+  .rem-txt{
+    font-size: 15px;
+  }
+  .new-txt{
+     margin-top: 22px;
+     font-size: 15px;
+     font-weight: 400;
+     color: rgb(117, 115, 115);
+  }
+  .now-txt{
+    font-size: 16px;
+    font-weight: 500;
+  }
+  .pro-txt{
+    font-size: 13px;
+    margin-top: 13px;
+    color:rgb(140, 140, 140) ;
+    width: 320px;
+  }
+  .learn-txt{
+    font-size: 13px;
+    font-weight: 400;
+    color: rgb(0, 113, 235);
+  }
+  .check-input{
+    width: 18px;
+    height: 18px;
+    border: none;
+    background-color: white;
+  }
+  .net-logo{
+    width: 150px;
+    height: 45px;
+  }
+  .sign-header{
+    padding-top: 25px;
+    padding-left: 148px;
+  }
+  .footer-two{
+    padding-top: 50px;
+    margin-top: 120px;
+    padding-left: 150px;
+    padding-bottom: 50px;
+    position: relative;
+    height: 335px;
+  }
+  .footer-two::before{
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    width: 100%;
+    height: 100%;
+    background: rgba(0, 0, 0, 0.753);
+  }
+  .darker-mode{
+     position: absolute;
+  }
+
+  .us-text{
+    font-size: 16px;
+    font-weight: 400;
+    text-decoration: underline;
+    color: rgba(255, 255, 255, 0.7);
+ }
+ .english-cont{
+  height: 32px;
+  width: 123px;
+  border: 1px solid rgb(94,94,94);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 4px;
+}
+.english-text{
+  font-size: 15px;
+  font-weight: 400;
+}
+  
+  .containers{
+    display: flex;
+    gap: 190px;
+    margin-top: 30px;
+    margin-bottom: 60px;
+   }
+   .containers li{
+    font-size: 14px;
+    font-weight: 400;
+    color: rgba(255, 255, 255, 0.7);
+    list-style: none;
+    text-decoration: underline;
+    margin-top: 27px;
+ }
+  

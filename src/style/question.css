@@ -1,0 +1,54 @@
+.question-cont{
+    margin-top: 12px;
+    padding: 32px 148px;
+   }
+   .question-indiv{
+    height: 80px;
+    width: 852.812px;
+    /* border: 1px solid gainsboro; */
+    padding: 24px 24px;
+    background-color:rgb(45,45,45) ;
+   }
+   .question-box{
+     display: flex;
+     flex-direction: column;
+     gap: 10px;
+     margin-top: 15px;
+   }
+   .ready-cont{
+    margin-top: 70px;
+   }
+   .input-as{
+    height: 56px;
+    width: 772.34px;
+    background-color:rgb(15,15,15) ;
+    border: 1px solid rgb(94,94,94);
+    border-radius: 5px;
+    padding: 16px 16px;
+    color: white;
+    font-size: 15px;
+    font-weight: 500;
+  }
+  .input-as::placeholder{
+    color: rgb(207, 206, 206);
+    font-size: 15px;
+    font-weight: 500;
+  }
+   .input-get{
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    margin-top: 15px;
+   }
+   .freq-text{
+    font-size: 24px;
+    font-weight: 600;
+   }
+   .what-text{
+    font-size: 24px;
+    font-weight: 400;
+   }
+   .ready-text{
+    font-size: 16px;
+    font-weight: 400;
+   }

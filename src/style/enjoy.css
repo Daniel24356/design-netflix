@@ -1,0 +1,54 @@
+   .enjoy-cont{
+    margin-top: 12px;
+    padding: 32px 148px;
+   }
+   .enjoy-indiv{
+    width: 250.75px;
+    height: 330px;
+    padding-top: 24px;
+    padding-left: 16px;
+    padding-right: 16px;
+    border-radius: 15px;
+    background-color: rgb(32,17,30);
+   }
+   .enjoy-img{
+      margin-top: 93px;
+      display: flex;
+      justify-content: right;
+   }
+   .enjoy-imgs{
+      margin-top: 53px;
+      display: flex;
+      justify-content: right;
+   }
+   .enjoy-imgss{
+      margin-top: 113px;
+      display: flex;
+      justify-content: right;
+   }
+   .enjoy-imgsss{
+      margin-top: 68px;
+      display: flex;
+      justify-content: right;
+   }
+   .enjoy-box{
+    display: flex;
+    gap: 15px;
+    margin-top: 12px;
+   }
+   .reason-text{
+      font-size: 24px;
+      font-weight: 600;
+   }
+   .reason-texts{
+      font-size: 24px;
+      font-weight: 600;
+   }
+   .smart-text{
+      font-size: 16px;
+      font-weight: 400;
+      color: rgb(188,186,193);
+   }
+   .smart-cont{
+      margin-top: 20px;
+   }
